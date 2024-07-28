@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "399387105621",
+    "project_id": "juli-57c48",
+    "storage_bucket": "juli-57c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399387105621:android:a0a5f7e8be8635fd06f7dc",
+        "android_client_info": {
+          "package_name": "com.example.juli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399387105621-4581c2a263afie31jbcem7frb4k2iai7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juli",
+            "certificate_hash": "87095c777de39316edf88b3157ab8d6d55adf20e"
+          }
+        },
+        {
+          "client_id": "399387105621-ula0jf0t4tcm1vbgevp0j1dl4ad0085h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJeckBNpTFRUj5TEyRmT29h-0y1XIDmB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399387105621-ula0jf0t4tcm1vbgevp0j1dl4ad0085h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
